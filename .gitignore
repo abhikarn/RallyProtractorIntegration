@@ -3,3 +3,10 @@ RallyProtractorInegration/RallyProtractorInegration/bin/
 RallyProtractorInegration/bin/Debug/
 RallyProtractorInegration/RallyProtractorInegration/obj/
 RallyProtractorInegration/obj/
+RallyProtractorIntegration/RallyProtractorIntegration/bin/
+*.cache
+RallyProtractorIntegration/RallyProtractorIntegration/obj/
+*.dll
+RallyProtractorIntegration/obj/Debug/
+*.manifest
+RallyProtractorIntegration/bin/
